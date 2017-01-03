@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass'
 
-gem 'charlock_holmes'
+gem 'charlock_holmes_bundle_icu'
 
 gem 'chronic'
 
